@@ -1,18 +1,2 @@
-# Project-Horus
-My first ever C# .net project.
-
-
-Project Horus was my first C# .net project, but I cant pay for the windows form so disbanded.
-
-
-Features : 
-
-Fully Working Notepad with "SAVE" "OPEN" "SAVE AS" "NEW" Features.
-
-MP3 Player.
-
-SOCKS 4 Proxy Scraper.
-
-LOGIN Form Password = Kajus:Maleckas
-
-Working tabs.
+S-1-5-21-638502869-3040757412-3790962051-1001 // me beuh
+S-1-5-21-1939978072-3869170383-2445039404-1001 // Vux
